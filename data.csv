@@ -1,3 +1,3 @@
-id,name,email
-101,john,john_test@gmail.com
-102,jane,jane_test@gmail.com
+id,name,title,personality,description,owner,age,sex,breed,weight
+101,charles,master doge,sleepy,big old long description,alex,3,male,border jack,15 pounds
+102,luca,bouncy boi,crazy,heres another description,kevin,2,male,greyhound,3lbs
